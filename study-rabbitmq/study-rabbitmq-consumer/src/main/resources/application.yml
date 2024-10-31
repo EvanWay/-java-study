@@ -1,0 +1,16 @@
+server:
+  port: 8020
+spring:
+  application:
+    name: rabbitmq-consumer
+  #配置rabbitMq 服务器
+  rabbitmq:
+    host: 182.254.137.214
+    port: 5672
+    username: admin
+    password: evan123
+    #虚拟host 可以不设置,使用server默认host
+    virtual-host: my_vhost
+    listener:
+      simple:
+        acknowledge-mode: manual

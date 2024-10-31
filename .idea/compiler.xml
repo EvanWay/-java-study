@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-provider-payment8002 (1) (com.atguigu.springcloud)" />
+        <module name="study-rabbitmq-producer" />
+        <module name="alibaba-sentinel-service8401" />
+        <module name="cloud-provider-payment8001 (2) (com.evan.springcloud)" />
+        <module name="cloudalibaba-consumer-nacos-order84" />
+        <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="study-spring-event" />
+        <module name="cloud-consumerzk-order80" />
+        <module name="cloud-stream-rabbitmq-consumer8802" />
+        <module name="cloud-stream-rabbitmq-consumer8803" />
+        <module name="cloud-eureka-server7002 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-eureka-server7001 (1) (com.evan.springcloud)" />
+        <module name="study-juc" />
+        <module name="study-aop01" />
+        <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-gateway-gateway9527 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-config-client-3366" />
+        <module name="seata-account-service2003 (1) (com.evan.springcloud)" />
+        <module name="cache" />
+        <module name="seata-order-service2001 (1) (com.evan.springcloud)" />
+        <module name="cloud-consumer-order80 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-authorization-server" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="seata-account-service2003" />
+        <module name="cloud-consumer-hystrix-dashboard9001 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-provider-hystrix-payment8001 (1) (com.evan.springcloud)" />
+        <module name="cloudalibaba-sentinel-service8401" />
+        <module name="cloud-config-client-3355" />
+        <module name="cloud-consumer-hystrix-dashboard9001 (1) (com.evan.springcloud)" />
+        <module name="cloud-eureka-server7001 (2) (com.evan.springcloud)" />
+        <module name="ioc01" />
+        <module name="cloud-provider-payment8002 (1) (com.evan.springcloud)" />
+        <module name="cloud-consumerconsul-order80" />
+        <module name="seata-account-service2003 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-provider-payment8001 (1) (com.evan.springcloud)" />
+        <module name="study-leetcode" />
+        <module name="study-mybatis" />
+        <module name="cloud-consumer-feign-order80" />
+        <module name="cloud-gateway-gateway9527 (1) (com.evan.springcloud)" />
+        <module name="cloud-providerconsul-payment8006" />
+        <module name="cloud-provider-payment8002" />
+        <module name="cloud-gateway-gateway9527 (2) (com.evan.springcloud)" />
+        <module name="CrosDemo" />
+        <module name="cloud-provider-payment8004" />
+        <module name="seata-order-service2001 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-consumer-order80 (2) (com.evan.springcloud)" />
+        <module name="cloud-provider-payment8001" />
+        <module name="alibaba-provider-payment9003" />
+        <module name="cloud-consumer-feign-hystrix-order80 (2) (com.evan.springcloud)" />
+        <module name="alibaba-provider-payment9004" />
+        <module name="cloud-api-commons (1) (com.evan.springcloud)" />
+        <module name="cloud-eureka-server7001 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-provider-hystrix-payment8001 (2) (com.evan.springcloud)" />
+        <module name="cloud-consumer-feign-order80 (1) (com.evan.springcloud)" />
+        <module name="seata-account-service2003 (2) (com.evan.springcloud)" />
+        <module name="cloud-consumer-feign-hystrix-order80 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-consumer-feign-order80 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-eureka-server7002 (1) (com.evan.springcloud)" />
+        <module name="seata-order-service2001" />
+        <module name="cloud-provider-hystrix-payment8001 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-consumer-feign-order80 (2) (com.evan.springcloud)" />
+        <module name="study-java8" />
+        <module name="cloud-config-center-3344" />
+        <module name="seata-storage-service2002 (2) (com.evan.springcloud)" />
+        <module name="study-rabbitmq-consumer" />
+        <module name="cloud-consumer-order80 (1) (com.evan.springcloud)" />
+        <module name="AjaxClient" />
+        <module name="nacos-order-service" />
+        <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="mp" />
+        <module name="seata-storage-service2002 (1) (com.atguigu.springcloud)" />
+        <module name="test" />
+        <module name="cloud-api-commons" />
+        <module name="alibaba-seata-storage-service2002" />
+        <module name="cloud-provider-payment8001 (1) (com.atguigu.springcloud)" />
+        <module name="cloud-api-commons (1) (com.atguigu.springcloud)" />
+        <module name="cloud-consumer-hystrix-dashboard9001 (2) (com.evan.springcloud)" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="test-spring-boot-starter" />
+        <module name="cloud-api-commons (2) (com.evan.springcloud)" />
+        <module name="cloud-provider-payment8002 (2) (com.evan.springcloud)" />
+        <module name="cloud-eureka-server7002 (2) (com.evan.springcloud)" />
+        <module name="nacos-stock-service" />
+        <module name="study-threadpool" />
+        <module name="cloud-consumer-feign-hystrix-order80 (1) (com.evan.springcloud)" />
+        <module name="study-elk" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-eureka-server7003" />
+        <module name="cloud-eureka-server7002" />
+        <module name="alibaba-seata-account-service2003" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
+        <module name="alibaba-seata-order-service2001" />
+        <module name="seata-storage-service2002 (1) (com.evan.springcloud)" />
+        <module name="study-aop02" />
+        <module name="study-aop03" />
+        <module name="study-spring-bean" />
+        <module name="study-oom" />
+        <module name="cloud-consumer-hystrix-dashboard9001" />
+        <module name="log4j2" />
+        <module name="cloudalibaba-provider-payment9004" />
+        <module name="cloudalibaba-provider-payment9003" />
+        <module name="cloudalibaba-provider-payment9002" />
+        <module name="cloudalibaba-provider-payment9001" />
+        <module name="seata-order-service2001 (2) (com.evan.springcloud)" />
+        <module name="test-spring-boot-autoconfigure" />
+        <module name="seata-storage-service2002" />
+        <module name="cloud-consumer-order80" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cache" options="-parameters" />
+      <module name="mp" options="-parameters" />
+      <module name="study-aop03" options="-parameters" />
+      <module name="study-elk" options="-parameters" />
+      <module name="study-java8" options="-parameters" />
+      <module name="study-juc" options="-parameters" />
+      <module name="study-mybatis" options="-parameters" />
+      <module name="study-rabbitmq-consumer" options="-parameters" />
+      <module name="study-rabbitmq-producer" options="-parameters" />
+      <module name="study-spring-event" options="-parameters" />
+      <module name="test" options="-parameters" />
+      <module name="test-spring-boot-autoconfigure" options="-parameters" />
+      <module name="test-spring-boot-starter" options="-parameters" />
+    </option>
+  </component>
+</project>

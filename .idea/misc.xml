@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mp/pom.xml" />
+        <option value="$PROJECT_DIR$/cache/pom.xml" />
+        <option value="$PROJECT_DIR$/ioc01/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/CrosDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud2020/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud2022/pom.xml" />
+        <option value="$PROJECT_DIR$/study-elk/pom.xml" />
+        <option value="$PROJECT_DIR$/study-juc/pom.xml" />
+        <option value="$PROJECT_DIR$/study-oom/pom.xml" />
+        <option value="$PROJECT_DIR$/AjaxClient/pom.xml" />
+        <option value="$PROJECT_DIR$/study-aop01/pom.xml" />
+        <option value="$PROJECT_DIR$/study-aop02/pom.xml" />
+        <option value="$PROJECT_DIR$/study-aop03/pom.xml" />
+        <option value="$PROJECT_DIR$/study-java8/pom.xml" />
+        <option value="$PROJECT_DIR$/study-seata/pom.xml" />
+        <option value="$PROJECT_DIR$/study-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/study-starter/test/pom.xml" />
+        <option value="$PROJECT_DIR$/study-starter/test-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/study-starter/test-spring-boot-autoconfigure/pom.xml" />
+        <option value="$PROJECT_DIR$/study-leetcode/pom.xml" />
+        <option value="$PROJECT_DIR$/study-rabbitmq/study-rabbitmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/study-rabbitmq/study-rabbitmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/study-threadpool/pom.xml" />
+        <option value="$PROJECT_DIR$/study-spring-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/study-spring-event/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-nacos-seata/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
